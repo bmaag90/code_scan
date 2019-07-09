@@ -1,6 +1,6 @@
 # Code for "SCAN: Multi-Hop Calibration for Mobile Sensor Arrays"
 
-This repository provides a simple framework to highlight the benefits of SCAN (see paper) over Multiple Least-Squares (MLS) when applied to multi-hop calibration.
+This repository provides a simple framework to highlight the benefits of SCAN (see [paper](https://github.com/bmaag90/research/tree/master/IMWUT2017)) over Multiple Least-Squares (MLS) when applied to multi-hop calibration.
 In particular, it shows that SCAN minimizes error accumulation over multiple hops in constrast to MLS that suffers from the bias-towards-zero (also known as [regression dilution (wiki link)](https://en.wikipedia.org/wiki/Regression_dilution) problem and, thus, also error accumulation.
 
 ## Code Structure
