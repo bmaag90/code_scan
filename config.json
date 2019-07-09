@@ -1,0 +1,14 @@
+{
+    "numSamples": 200,
+    "numSensors": 3,
+    "numHops": 10,
+    "noiseLowerBound": 0.05,
+    "noiseUpperBound": 0.2,
+    "calparLowerBound": 0.2,
+    "calparUpperBound": 2.0,
+    "phenLowerBound": 0.25,
+    "phenUpperBound": 0.45,
+    "numRuns": 100,
+    "calibrationMethods": ["scan","mls"],
+    "statsToPlot": ["deltaB","rmse","corr","nrmse"]
+}
