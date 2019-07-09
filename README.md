@@ -14,3 +14,10 @@ Following files are provided:
 * `SCAN.py`: Calculates calibration parameters according to SCAN
 * `config.json`: Different configuration parameters used to perform the experiment
 
+## Requirements
+
+Implemented with:
+* Python 2.7.12
+* numpy 1.14.5
+* scipy 0.19.1
+* matplotlib 2.1.1
